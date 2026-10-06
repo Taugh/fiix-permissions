@@ -1,0 +1,19 @@
+@Source	Work orders permissions (v5)	https://helpdesk.fiixsoftware.com/hc/en-us/articles/40598772915988-Work-orders-permissions
+@Menu
+Can see 'Maintenance' top menu item ¦ Allows users to see the Maintenance top menu item in the web app.
+Can see 'Work orders' menu item ¦ Allows the user to see Work orders menu item in the web app.
+Can see 'Task Groups' menu item ¦ Allows the user to see Task Groups menu item in the web app.
+@Page
+Work Orders Administration ¦ Can Access Has 'Save' Button Has 'Print' Button Can see 'Work Log' Info Can toggle 'Requires Signature' ¦ Allows the user permissions to act as manager or administrator of work orders in the web app and mobile app. Users with this permission can access all work orders in the mobile app (not just their own) as long as they have an internet connection, and perform manager-level actions in work orders on both platforms. Best for: users who act as managers or administrators of work orders.
+Work Orders ¦ Can Access Has 'New' Button Has 'Print' Button Has 'Edit' Menu Item Has 'Update/Close Work Order' Menu Item Has 'Delete' Button Has 'Import' Button ¦ Allows the user to see and update work orders in the web app and the mobile app.
+Work Order Assets ¦ Can Access Has 'New' Button Has 'Edit' Menu Button Has 'Print' Button Has 'Delete' Button Has 'Export' Button Has 'Import' Button ¦ Allows the user to add assets to work orders.
+Work Order Business ¦ Can Access the 'Work Order Business' Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to add businesses to work orders.
+Work Order Files ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to attach files to work orders.
+Work Order Filters ¦ Can Access Has 'New' Button Has 'Edit' Menu Item Has 'Print' Button Has 'Delete' Button Has 'Export' Button Has 'Import' Button ¦ Allows the user to filter the work order list on the web app.
+Work Order Parts ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button Has 'Delete' Button ¦ Allows the user to add and remove parts from work orders.
+Work Order Status ¦ Can Access Has 'New' Button Has 'Edit' Menu Item Has 'Print' Button Has 'Delete' Button Has 'Export' Button Has 'Import' Button ¦ Allows the user to create new statuses, which can be assigned to work orders.
+Work Order Task ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to add tasks to work orders.
+Work Order User ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to assign users to work orders. Best for: users who manage other users, and who will be assigning other users to work orders.
+Import Work Orders ¦ Can Access ¦ Allows the user to import work orders from a spreadsheet (Settings > Import > Import Work Orders).
+Add Labor to Task ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to access Add Labor task completion notes window (Work order details page > Labor Tasks tab).
+Add Task Group to WO ¦ Can Access Has 'New' Button Has 'Edit' Menu Item Has 'Print' Button Has 'Delete' Button Has 'Export' Button Has 'Import' Button ¦ Allows the user to add a task group to work orders.

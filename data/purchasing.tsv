@@ -1,0 +1,13 @@
+Draft	Can Submit for Approval	010101
+Draft	Can Send to Supplier	010101
+Draft	Can Cancel Purchase Order	010101
+Waiting for Approval	Can Approve Purchase Order	010101
+Waiting for Approval	Can Reject Purchase Order	010101
+Waiting for Approval	Can Cancel Purchase Order	010101
+Approved	Can Send to Supplier	010101
+Approved	Can Cancel Purchase Order	010101
+On Order	Can Send to Supplier	010101
+On Order	Can Set to Order Not Fulfilled	010101
+On Order	Can Cancel Purchase Order	010101
+Order Fulfilled	Can Back to Draft	010101
+Order Not Fulfilled	Can Back to Draft	010101

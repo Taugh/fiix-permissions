@@ -1,0 +1,18 @@
+@Source	Scheduled maintenance permissions (v5)	https://helpdesk.fiixsoftware.com/hc/en-us/articles/42451817320340-Scheduled-maintenance-permissions
+@Menu
+Can see 'Maintenance' top menu ¦ Allows users to see the Maintenance top menu item in the web app.
+Can see 'Scheduled Maintenance' menu item ¦ Allows the user to see the Scheduled Maintenance menu item in the web app.
+Can see 'Task Groups' menu item ¦ Allows the user to see the Task Groups menu item in the web app.
+@Page
+Scheduled Maintenance Details ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to view and edit individual scheduled maintenance detail pages.
+Scheduled Maintenance List ¦ Can Access Has 'New' Button Has 'Edit' Menu Item Has 'Print' Button Has 'Delete' Button Has 'Export' Button Has 'Import' Button ¦ Allows the user to see the list of scheduled maintenance records in the Scheduled Maintenance List view.
+Schedule Maintenance Upcoming ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Expected behavior: Allows the user to see upcoming scheduled maintenance items in calendar.
+Scheduled Maintenance Business ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Expected behavior: Allows the user to add businesses to scheduled maintenance.
+Scheduled Maintenance File ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to attach links and notes to scheduled maintenance. Users without this permission can still add general files to scheduled maintenance, just not links or notes. Prerequisite permissions: Scheduled Maintenance Details page permissions
+Scheduled Maintenance Filter ¦ Can Access Has 'New' Button Has 'Edit' Menu Item Has 'Print' Button Has 'Delete' Button Has 'Export' Button Has 'Import' Button ¦ Expected behavior: Use and add to list of filters on SM list page. Prerequisite permissions: Scheduled Maintenance List page permissions
+Scheduled Maintenance Trigger ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to add and configure triggers (time, meter reading, and events) to scheduled maintenance (Scheduling tab). Prerequisite permissions: Asset Event page permissions Scheduled Maintenance Details page permissions
+Scheduled Parts ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to add and configure parts on scheduled maintenance (Parts tab). Prerequisite permissions: Scheduled Maintenance Details page permissions
+Scheduled Task ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to add and configure tasks on scheduled maintenance (Tasks tab). Prerequisite permissions: Scheduled Maintenance Details page permissions
+Scheduled Trigger Change Threshold ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to edit the next trigger threshold of meter triggers in the Scheduled Trigger Change Threshold dialog (Scheduling tab). Prerequisite permissions: Scheduled Maintenance Details page permissions
+Import Scheduled Maintenance ¦ Can Access ¦ Allows the user to bulk import scheduled maintenance from a file (Settings > Import > Scheduled Maintenance). Prerequisite permissions: Can See Import Menu Item menu permission Scheduled Maintenance List page permissions
+Import Task Groups ¦ Can Access ¦ Allows the user to bulk import task groups from a file (Settings > Import > Task Groups). Prerequisite permissions: Can See Import Menu Item menu permission Scheduled Maintenance List page permissions

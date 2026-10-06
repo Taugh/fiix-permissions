@@ -1,0 +1,15 @@
+@Source	System role permissions (v6 User management)	https://helpdesk.fiixsoftware.com/hc/en-us/articles/25255386559252-System-role-permissions
+View users ¦ See users, their account details, and their access control pages. Permission is view-only. ¦
+View direct reports ¦ See account details of users that directly report to them only. Permission is view-only. ¦ Direct reports are users that have a manager assigned on their account details page. This permission gives view ability to the manager only, and they can only see their direct reports.
+View user groups ¦ See all user groups and user group details, including permissions. Permission is view-only. ¦ Does not include viewing the users assigned to the user groups.
+View system roles ¦ See all system roles and system role details, including permissions. Permission is view-only. ¦
+Create users ¦ Make new, inactive user accounts. New users won't take up a paid license (seat) until activated. This permission does not give activation privileges. ¦ Checking this permission will automatically check View users.
+Create user groups ¦ Create new user groups and add descriptions. Can't edit user group permissions or assign users to the user group. ¦ Checking this permission will automatically check View user groups.
+Create system roles ¦ Create new system roles and add descriptions. Can't edit permissions or assign users to system roles. ¦ Checking this permission will automatically check View system roles.
+Edit users ¦ Make change to user details, including name, email address, and reset password. Assign users to user groups and system roles. In multi-site configurations: Add, edit, and manage regions, and assign users to regions and sites. ¦ Checking this permission will automatically check View users.
+Edit user status ¦ Change user statuses to active, passive, or deactivated. Activating a user may send an account activation email and requires a license (seat). ¦ Checking this permission will automatically check View users.
+Edit direct reports ¦ Make changes to user details, reset passwords, and deactivate their direct reports only. ¦ Direct reports are users that have a manager assigned on their account details page. This permission gives editing ability to the manager only, and they can only edit their direct reports. Checking this permission will automatically check View direct reports.
+Edit user groups ¦ Make changes to user group names, descriptions, and permissions. ¦ Does not include editing which users are assigned to user groups (requires Edit Users). Checking this permission will automatically check View user groups.
+Edit system roles ¦ Make changes to system role names, descriptions, and permissions. ¦ Does not include editing which users are assigned to the system role. Checking this permission will automatically check View system roles.
+Delete user groups ¦ Permanently delete user groups. ¦ Checking this permission will automatically check View user groups.
+Delete system roles ¦ Permanently delete system roles. ¦ Checking this permission will automatically check View system roles.

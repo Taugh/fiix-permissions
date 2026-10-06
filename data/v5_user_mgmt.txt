@@ -1,0 +1,8 @@
+@Source	Compare user management v5 and v6 features (v5 column, Access rows)	https://helpdesk.fiixsoftware.com/hc/en-us/articles/21769760933652-Compare-user-management-v5-and-v6-features
+Feature: Open Settings > Users and User Groups (view only) ¦ Users (page) ¦ Can see 'Settings' top menu (menu)
+Feature: Select visible elements on the user list ¦ Can see 'Settings' top menu (menu) ¦ User Interface Customization Settings (page) ¦ Users (page)
+Feature: Export user list ¦ Can see 'Settings' top menu (menu) ¦ Users (page)
+Feature: Import users from CSV ¦ Can see 'Settings' top menu (menu) ¦ Users (page) ¦ Import Users From CSV File (page)
+Feature: Show last login date ¦ Can see 'Settings' top menu (menu) ¦ Users (page) ¦ User Interface Customization Settings (page)
+Feature: Localization ¦ Can see 'Settings' top menu (menu) ¦ Can see 'Localization' menu item (menu) ¦ Languages (page)
+Feature: Change user status ¦ Can see 'Settings' top menu (menu) ¦ Users (page) ¦ User (page) ¦ User Status (page) ¦ User Increase Tenant Seats - UI handler (page)

@@ -1,0 +1,574 @@
+#Add To Open Purchase Order
+Can Access	010101
+Has 'New' Button	010101
+Has 'Edit' Menu Item	010101
+Has 'Print' Button	010101
+Has 'Delete' Button	010101
+Has 'Export' Button	010101
+Has 'Import' Button	010101
+#Add to Open RFQ
+Can Access	010101
+Has 'New' Button	010101
+Has 'Edit' Menu Item	010101
+Has 'Print' Button	010101
+Has 'Delete' Button	010101
+Has 'Export' Button	010101
+Has 'Import' Button	010101
+#Asset Business
+Can Access	011111
+Has 'Save' Button	011101
+Has 'Print' Button	011111
+Has 'Import' Button	011101
+#Asset
+Can Access	011011
+Has 'Save' Button	011001
+Has 'Print' Button	011011
+Has 'Import' Button	011001
+#Asset Categories
+Can Access	000001
+Has 'New' Button	000001
+Has 'Edit' Menu Item	000001
+Has 'Print' Button	000001
+Has 'Delete' Button	000001
+Has 'Export' Button	000001
+Has 'Import' Button	000001
+#Asset Category
+Can Access	000001
+Has 'Save' Button	000001
+Has 'Print' Button	000001
+Has 'Import' Button	000001
+#Asset Event
+Can Access	011011
+Has 'Save' Button	011011
+Has 'Print' Button	011011
+Has 'Import' Button	011011
+#Asset Events History
+Can Access	001011
+Has 'Save' Button	001011
+Has 'Print' Button	001011
+Has 'Import' Button	001011
+#Asset File
+Can Access	011011
+Has 'Save' Button	011001
+Has 'Print' Button	011011
+Has 'Import' Button	011001
+#Assets
+Can Access	011001
+Has 'New' Button	011001
+Has 'Edit' Menu Item	011001
+Has 'Print' Button	011001
+Has 'Delete' Button	011001
+Has 'Export' Button	011001
+Has 'Import' Button	011001
+#Asset Parts Supplies
+Can Access	011011
+Has 'Save' Button	011001
+Has 'Print' Button	011011
+Has 'Import' Button	011001
+#Assigned Assets
+Can Access	001011
+Has 'New' Button	001011
+Has 'Edit' Menu Item	001011
+Has 'Print' Button	001011
+Has 'Delete' Button	001011
+Has 'Export' Button	001011
+Has 'Import' Button	001011
+#Assigned Work Orders
+Can Access	001011
+Has 'New' Button	001011
+Has 'Edit' Menu Item	001011
+Has 'Print' Button	001011
+Has 'Delete' Button	001011
+Has 'Export' Button	001011
+Has 'Import' Button	001011
+#BOM Groups Manager
+Can Access	011001
+Has 'New' Button	011001
+Has 'Edit' Menu Item	011001
+Has 'Print' Button	011001
+Has 'Delete' Button	011001
+Has 'Export' Button	011001
+Has 'Import' Button	011001
+#BOMGroup
+Can Access	011001
+Has 'Save' Button	011001
+Has 'Print' Button	011001
+Has 'Import' Button	011001
+#Business
+Can Access	011101
+Has 'Save' Button	011101
+Has 'Print' Button	011101
+Has 'Import' Button	011101
+#Business Contact
+Can Access	011001
+Has 'Save' Button	011001
+Has 'Print' Button	011001
+Has 'Import' Button	011001
+#Business File
+Can Access	011001
+Has 'Save' Button	011001
+Has 'Print' Button	011001
+Has 'Import' Button	011001
+#Businesses
+Can Access	011001
+Has 'New' Button	011001
+Has 'Edit' Menu Item	011001
+Has 'Print' Button	011001
+Has 'Delete' Button	011001
+Has 'Export' Button	011001
+Has 'Import' Button	011001
+#Calendar
+Can Access	001011
+#Calendar Scheduler
+Can Access	000001
+#Current Stock
+Can Access	011001
+Has 'New' Button	011001
+Has 'Edit' Menu Item	011001
+Has 'Print' Button	011001
+Has 'Delete' Button	011001
+Has 'Export' Button	011001
+Has 'Import' Button	011001
+#Cycle Count
+Can Access	001011
+Has 'Save' Button	001011
+#Cycle Counts
+Can Access	001011
+Has 'New' Button	001011
+Has 'Edit' Menu Item	001011
+Has 'Print' Button	001011
+Has 'Delete' Button	001011
+Has 'Export' Button	001011
+Has 'Import' Button	001011
+#Dashboard
+Can Access	000001
+Can See Timeline	011111
+#Email or Print RFQ
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Failure Code Actions
+Can Access	001011
+Has 'New' Button	001011
+Has 'Edit' Menu Item	001011
+Has 'Print' Button	001011
+Has 'Delete' Button	001011
+Has 'Export' Button	001011
+Has 'Import' Button	001011
+#Failure Code Causes
+Can Access	001011
+Has 'New' Button	001011
+Has 'Edit' Menu Item	001011
+Has 'Print' Button	001011
+Has 'Delete' Button	001011
+Has 'Export' Button	001011
+Has 'Import' Button	001011
+#Failure Code Problems
+Can Access	001011
+Has 'New' Button	001011
+Has 'Edit' Menu Item	001011
+Has 'Print' Button	001011
+Has 'Delete' Button	001011
+Has 'Export' Button	001011
+Has 'Import' Button	001011
+#Failure Code Similar Work Orders
+Can Access	001011
+Has 'New' Button	001011
+Has 'Edit' Menu Item	001011
+Has 'Print' Button	001011
+Has 'Delete' Button	001011
+Has 'Export' Button	001011
+Has 'Import' Button	001011
+#Message
+Can Access	011111
+Has 'Save' Button	011111
+Has 'Print' Button	011111
+Has 'Import' Button	011111
+#Messages
+Can Access	011111
+Has 'New' Button	011111
+Has 'Edit' Menu Item	011111
+Has 'Print' Button	011111
+Has 'Delete' Button	011111
+Has 'Export' Button	011111
+Has 'Import' Button	011111
+#Meter Reading
+Can Access	011011
+Has 'Save' Button	011011
+Has 'Print' Button	011011
+Has 'Import' Button	011011
+#Meter Reading History
+Can Access	001011
+Has 'Save' Button	001011
+Has 'Print' Button	001011
+Has 'Import' Button	001011
+#Misc Cost
+Can Access	001011
+Has 'Save' Button	001011
+Has 'Print' Button	001011
+Has 'Import' Button	001011
+#Move
+Can Access	001011
+Has 'Save' Button	001011
+Has 'Print' Button	001011
+#Move Back
+Can Access	001011
+Has 'Save' Button	001011
+Has 'Print' Button	001011
+#My Purchase Requests
+Can Access	001011
+Has 'New' Button	001011
+Has 'Edit' Menu Item	001011
+Has 'Print' Button	001011
+Has 'Delete' Button	001011
+Has 'Export' Button	001011
+Has 'Import' Button	001011
+#Nested PMs
+Can Access	001001
+Has 'New' Button	001001
+Has 'Edit' Menu Item	001001
+Has 'Print' Button	001001
+Has 'Delete' Button	001001
+Has 'Export' Button	001001
+Has 'Import' Button	001001
+#Nested PMs Configuration
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Nested PMView Modal
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Part Supply Classification
+Can Access	001011
+Has 'Save' Button	001001
+Has 'Print' Button	001011
+Has 'Import' Button	001001
+#Parts and Supplies Classification
+Can Access	001001
+Has 'Save' Button	001001
+#Personnel
+Can Access	011011
+Has 'Save' Button	011011
+Has 'Print' Button	011011
+Has 'Import' Button	011011
+#Project
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Project File
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Projects
+Can Access	001001
+Has 'New' Button	001001
+Has 'Edit' Menu Item	001001
+Has 'Print' Button	001001
+Has 'Delete' Button	001001
+Has 'Export' Button	001001
+Has 'Import' Button	001001
+#Purchase Order Comment
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Purchase Order
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Purchase Order File
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Purchase Order Line Item
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Purchase Order Line Items
+Can Access	010101
+Has 'New' Button	010101
+Has 'Edit' Menu Item	010101
+Has 'Print' Button	010101
+Has 'Delete' Button	010101
+Has 'Export' Button	010101
+Has 'Import' Button	010101
+#Purchase Order User
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Purchase Order, Comment Email Or Print
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Purchase Orders
+Can Access	010101
+Has 'New' Button	010101
+Has 'Edit' Menu Item	010101
+Has 'Print' Button	010101
+Has 'Delete' Button	010101
+Has 'Export' Button	010101
+Has 'Import' Button	010101
+#Purchase Request
+Can Access	011111
+Has 'Save' Button	011111
+Has 'Print' Button	011111
+Has 'Import' Button	011111
+#Receipt
+Can Access	011101
+Has 'Save' Button	011101
+Has 'Print' Button	011101
+Has 'Import' Button	011101
+#Receipt Line Item
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Receipts
+Can Access	010101
+Has 'New' Button	010101
+Has 'Edit' Menu Item	010101
+Has 'Print' Button	010101
+Has 'Delete' Button	010101
+Has 'Export' Button	010101
+Has 'Import' Button	010101
+#Receive Part To Multiple Locations
+Can Access	010101
+Has 'New' Button	010101
+Has 'Edit' Menu Item	010101
+Has 'Print' Button	010101
+Has 'Delete' Button	010101
+Has 'Export' Button	010101
+Has 'Import' Button	010101
+#Report
+Can Access	001001
+Has 'New' Button	001001
+Has 'Edit' Menu Item	001001
+Has 'Print' Button	001001
+Has 'Delete' Button	001001
+Has 'Export' Button	001001
+Has 'Import' Button	001001
+#Reports
+Can Access	001001
+Has 'New' Button	001001
+Has 'Edit' Menu Item	001001
+Has 'Print' Button	001001
+Has 'Delete' Button	001001
+Has 'Export' Button	001001
+Has 'Import' Button	001001
+#Reports To User
+Can Access	011011
+Has 'Save' Button	011011
+Has 'Print' Button	011011
+Has 'Import' Button	011011
+#RFQ
+Can Access	011101
+Has 'Save' Button	011101
+Has 'Print' Button	011101
+Has 'Import' Button	011101
+#RFQ File
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#RFQ Line Item
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#RFQs
+Can Access	011101
+Has 'New' Button	011101
+Has 'Edit' Menu Item	011101
+Has 'Print' Button	011101
+Has 'Delete' Button	011101
+Has 'Export' Button	011101
+Has 'Import' Button	011101
+#Scheduled Maintenance Business
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Scheduled Maintenance Details
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+#Scheduled Maintenance File
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Scheduled Maintenance List
+Can Access	001001
+Has 'New' Button	001001
+Has 'Edit' Menu Item	001001
+Has 'Print' Button	001001
+Has 'Delete' Button	001001
+Has 'Export' Button	001001
+Has 'Import' Button	001001
+#Scheduled Maintenance Trigger
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Scheduled Parts
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Scheduled Report
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Scheduled Report User
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Scheduled Task
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Scheduler
+Can Access	001011
+Can Edit	001001
+Can Access Filter	001001
+#Select Classes for Cycle Count
+Can Access	001011
+Has 'Save' Button	001011
+Has 'Print' Button	001011
+Has 'Import' Button	001011
+#Select From Multiple Suppliers
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Select Parts For Bill of Materials
+Can Access	011001
+Has 'New' Button	011001
+Has 'Edit' Menu Item	011001
+Has 'Print' Button	011001
+Has 'Delete' Button	011001
+Has 'Export' Button	011001
+Has 'Import' Button	011001
+#Select Purchase Order Cost Type
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Select Supplier and Confirm Information
+Can Access	010101
+Has 'Save' Button	010101
+Has 'Print' Button	010101
+Has 'Import' Button	010101
+#Stock
+Can Access	011001
+Has 'Save' Button	011001
+Has 'Print' Button	011001
+Has 'Import' Button	011001
+#Stock (page name blank in source)
+Has ‘Transfer stock’ button	000001
+#Stock Adjustment
+Can Access	011001
+Has 'New' Button	011001
+Has 'Edit' Menu Item	011001
+Has 'Print' Button	011001
+Has 'Delete' Button	011001
+Has 'Export' Button	011001
+Has 'Import' Button	011001
+#Submit Work Request
+Can Access	111011
+Has 'Save' Button	111011
+Has 'Print' Button	111011
+Has 'Import' Button	111011
+#Task
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Task Group
+Can Access	001001
+Has 'Save' Button	001001
+Has 'Print' Button	001001
+Has 'Import' Button	001001
+#Task Groups
+Can Access	001001
+Has 'New' Button	001001
+Has 'Edit' Menu Item	001001
+Has 'Print' Button	001001
+Has 'Delete' Button	001001
+Has 'Export' Button	001001
+Has 'Import' Button	001001
+#User
+Can Access	011111
+Has 'Save' Button	011111
+Has 'Print' Button	011111
+Has 'Import' Button	011111
+#User Certification
+Can Access	011011
+Has 'Save' Button	011011
+Has 'Print' Button	011011
+Has 'Import' Button	011011
+#User File
+Can Access	011111
+Has 'Save' Button	011111
+Has 'Print' Button	011111
+Has 'Import' Button	011111
+#Warranty Certificate
+Can Access	011011
+Has 'Save' Button	011001
+Has 'Print' Button	011011
+Has 'Import' Button	011001
+#Work Order Administration
+Can Access	001011
+Has 'Save' Button	001011
+Has 'Print' Button	001011
+Can See 'Log Work' Info	001011
+Can Toggle 'Requires Signature'	000001
+#Work Order Business
+Can Access	001011
+Has 'Save' Button	001001
+Has 'Print' Button	001011
+Has 'Import' Button	001001
+#Work Order File
+Can Access	001011
+Has 'Save' Button	001011
+Has 'Print' Button	001011
+Has 'Import' Button	001011
+#Work Order Parts
+Can Access	001011
+Has 'Save' Button	001011
+Has 'Print' Button	001011
+Has 'Delete' Button	000001
+Has 'Import' Button	001011
+#Work Order Task
+Can Access	001011
+Has 'Save' Button	001011
+Has 'Print' Button	001011
+Has 'Import' Button	001011
+#Work Order User
+Can Access	001011
+Has 'Save' Button	001001
+Has 'Print' Button	001011
+Has 'Import' Button	001001
+#Work Orders
+Can Access	001001
+Has 'New' Button	001001
+Has 'Print' Button	001001
+Has 'Edit' Menu Item	001001
+Has 'Update/Close Work Order' Menu Item	001001
+Has 'Delete' Button	001001
+Has 'Export' Button	001001
+Has 'Import' Button	001001

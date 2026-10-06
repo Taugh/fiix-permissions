@@ -1,0 +1,16 @@
+@Source	User management permissions (v5)	https://helpdesk.fiixsoftware.com/hc/en-us/articles/41281346164244-User-management-permissions
+@Menu
+Can see 'Settings' top menu item ¦ Allows users to see the Settings menu item in the web app navigation menu. (Mandatory for basic user management actions.)
+Can see 'Users' menu item ¦ Allows the user to see and click on Users in the web app navigation menu. (Mandatory for basic user management actions.)
+Can see 'User groups' menu item ¦ Allows the user to see and click on User groups in the web app navigation menu. (Mandatory for basic user management actions.)
+@Page
+User ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Edit' Menu Item Has 'Import' Button ¦ Allows the user to see individual user records and user detail pages (Settings > Users > click a user to see their profile).
+Users ¦ Can Access Has 'New' Button Has 'Edit' Menu Item Has 'Print' Button Has 'Delete' Button Has 'Export' Button Has 'Import' Button ¦ Allows the user to see the user list page (Settings > Users).
+Business Contact for User ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to add business contacts to user details under the Business tab.
+User Certification ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to add certifications, like safety or HAZMAT certificates, to user details under the Certifications tab.
+User File ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to add files to user details under the Files tab.
+User Group ¦ Can Access Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to see individual user group detail pages.
+User Groups ¦ Can Access Has 'New' Button Has 'Edit' Menu Item Has 'Print' Button Has 'Delete' Button Has 'Export' Button Has 'Import' Button ¦ Allows the user to see the user groups list page.
+User Increase Tenant Seats - UI handler ¦ Can Access ¦ This permission is defunct. It used to allow users to change the number of licenses available, which is now available only to Administrators through the Account Settings menu item.
+User Interface Customization Settings ¦ Can Access Has 'New' Button Has 'Save' Button Has 'Print' Button Has 'Import' Button ¦ Allows the user to see the User Interface Customization feature (Settings > Security & Infrastructure). Currently limited to blocking non-Admin users from changing the interface where that is possible.
+User Status ¦ Can Access Has 'New' Button Has 'Edit' Menu Item Has 'Print' Button Has 'Delete' Button Has 'Export' Button Has 'Import' Button ¦ Allows the user to change user statuses from Active to Inactive or vice versa using the status toggle on the user details page. This may affect billing and your number of available user licenses. Prerequisite permissions: User page permissions

@@ -1,0 +1,12 @@
+@Source	Work orders permissions (v6)	https://helpdesk.fiixsoftware.com/hc/en-us/articles/27945783675924-Work-orders-permissions-v6
+View work orders and work order details ¦ See the work orders list in Maintenance > Work Orders and view a work order's details (including the content of all tabs). Permission is view-only. ¦
+Create work orders ¦ Create new work orders in Maintenance > Work Orders. This does not include editing work orders. ¦ Checking this permission will automatically check "View work orders and work order details".
+Create tasks ¦ Create tasks from within a work order. This does not include editing tasks. ¦ Checking this permission will automatically check "View work orders and work order details".
+Edit work order details ¦ Make changes to all fields on a work order, except Assign to User and Suggested start date and time. This does not include creating new work orders. ¦ Checking this permission will automatically check "View work orders and work order details".
+Edit task details ¦ Make changes to all fields in a task, except Assigned to and Suggested start date and time. This does not include creating new tasks. ¦ Checking this permission will automatically check "View work orders and work order details".
+Assign users or user groups to work orders ¦ Edit the Assign to User field in the Summary tab of a work order. ¦ Checking this permission will automatically check "View work orders and work order details" and "Edit work order details".
+Assign users or user groups to tasks ¦ Use the Users slide-out panel accessible through the Actions menu > Assign on tasks in the task list. ¦ Checking this permission will automatically check "View work orders and work order details" and "Edit task details".
+Set suggested start and completion dates for work orders ¦ Edit the Suggested start date and time field in the Summary tab of a work order. ¦ Checking this permission will automatically check "View work orders and work order details" and "Edit work order details".
+Set suggested start date for tasks ¦ Edit the Suggested start date and time field on a task's details through the Actions menu > Edit. ¦ Checking this permission will automatically check "View work orders and work order details" and "Edit task details".
+Delete work orders ¦ Delete any existing work orders. ¦ Checking this permission will automatically check "View work orders and work order details".
+Delete tasks ¦ Delete any existing tasks on a work order. ¦ Checking this permission will automatically check "View work orders and work order details".
